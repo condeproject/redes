@@ -3,7 +3,7 @@
 
 Para disponer de un servidor web **LAMP** ejecutaremos los comandos que se indican a continuación. 
 
-### Instalación de LAMP
+### Instalación de CondeProject
 
 ```bash
 sudo apt install lamp-server^
